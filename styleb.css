@@ -1,0 +1,25 @@
+
+	
+body{
+    padding-top:50px;
+    padding-bottom:50px;
+    background-image: url(../pwgall.jpg);
+}
+img{
+    margin-top:25px;
+    box-shadow:5px 5px 5px #aaaaaa;
+    
+}
+.container{
+    background-image: url(../pwgall.jpg);
+
+    padding-bottom:20px;
+}
+
+b{
+    text-decoration-color: red;
+}
+
+
+
+
